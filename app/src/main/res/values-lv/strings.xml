@@ -1,3 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_pref_search">Meklēt</string>
+    <string name="app_pref_close">Aizvērt</string>
+    <string name="app_pref_back">Atpakaļ</string>
+    <string name="app_pref_settings">Lietotnes iestatījumi</string>
+    <string name="app_pref_locale">Lietotnes valoda</string>
+    <string name="app_pref_locale_summary">Atvērt lietotnes valodas iestatījumus</string>
+    <string name="app_pref_locale_default">Sistēmas iestatījumi</string>
+    <string name="app_pref_notification">Paziņojumu iestatījumi</string>
+    <string name="app_pref_notification_summary">Atvērt paziņojumu iestatījumus</string>
+    <string name="app_tab_about_app_version">Versija: %1$s</string>
+    <string name="app_tab_about_developer_name">Izstrādātājs Dmitrijs Krivoručko (Dmytro Kryvoruchko)</string>
+    <string name="app_tab_about_rate_app">Novērtēt lietotni</string>
+    <string name="app_tab_about_write_email">Sazināties ar izstrādātāju pa e-pastu</string>
+    <string name="app_tab_about_app_sources">Lietotnes pirmkodi</string>
+    <string name="app_tab_about_privacy_policy">Konfidencialitātes politika</string>
+    <string name="app_tab_about_license">Licence</string>
+    <string name="app_error_title">Kļūda</string>
+    <string name="app_error_recover">Atgūt</string>
+    <string name="app_logs_send_title">Nosūtīt žurnālus izstrādātājam</string>
+    <string name="app_logs_send_message">Lūdzu, pievienojiet kļūdas aprakstu:</string>
+    <string name="app_logs_send">Sūtīt</string>
+    <string name="app_logs_enabled">Žurnāls iespējots</string>
+    <string name="app_logs_disabled">Žurnāls atspējots</string>
+    <string name="app_activity_update_dialog_title">Pieejams atjauninājums</string>
+    <string name="app_activity_update_dialog_message">Tikko lejupielādēts atjauninājums. Vai palaist pa jaunu lietotni tagad?</string>
+    <string name="app_activity_update_dialog_restart">Palaist pa jaunu</string>
+    <string name="app_tab_settings">Iestatījumi</string>
+    <string name="app_tab_about">Par</string>
+    <string name="app_tab_exit">Iziet</string>
+    <string name="app_tab_stream_select_mode">Atlasīt straumēšanas režīmu:</string>
+    <string name="app_permission_required_title">Nepieciešama atļauja</string>
+    <string name="app_permission_notification_settings">Atvērt iestatījumus</string>
+    <string name="app_notification_channel_error">Kļūdu paziņojumi</string>
+    <string name="app_notification_streaming_content">Nospiediet APTURĒT, lai pārtrauktu straumēšanu</string>
+    <string name="app_notification_stop">Apturēt</string>
+    <string name="app_tile_stop">Apturēt</string>
+    <string name="app_pref_settings_search">Iestatījumu meklēšana</string>
 </resources>
